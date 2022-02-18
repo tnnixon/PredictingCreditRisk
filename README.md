@@ -1,4 +1,4 @@
-# PredictingCreditRisk
+# Predicting Credit Risk
 My task was to build a machine learning model that attempts to predict whether a loan from LendingClub will become high risk or not.
 
 <b>Background</b>
@@ -27,3 +27,6 @@ I created a LogisticRegression model, fit it to the data, and printed the model'
 
 <b>Revisit the Preprocessing: Scale the data</b>
 The data going into these models was never scaled, an important step in preprocessing. I used StandardScaler to scale the training and testing sets.
+
+<b>References</b>
+LendingClub (2019-2020) Loan Stats. Retrieved from: https://resources.lendingclub.com/
